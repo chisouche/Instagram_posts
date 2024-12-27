@@ -46,11 +46,6 @@ This project demonstrates how thoughtful UI/UX enhancements can significantly im
 - **Accessibility Enhancements**: Implement additional accessibility features to ensure inclusivity.
 - **Customization Options**: Provide options for users to customize the appearance and behaviour of the password reveal component through properties.
 
-"# Instagram_posts"
-demo.mp4
-
-
-
 
 https://github.com/user-attachments/assets/458e08a0-146c-421b-a6da-1a0adb8ef9fc
 
