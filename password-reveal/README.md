@@ -42,8 +42,12 @@ This project demonstrates how thoughtful UI/UX enhancements can significantly im
 
 ## Future Improvements
 
-- **Animation Refinement**: Enhance animations for a smoother and more fluid user experience.
+- **Animation Refinement**: Enhance animations for a smoother, more fluid user experience.
 - **Accessibility Enhancements**: Implement additional accessibility features to ensure inclusivity.
-- **Customization Options**: Provide options for users to customize the appearance and behavior of the password reveal component through properties.
+- **Customization Options**: Provide options for users to customize the appearance and behaviour of the password reveal component through properties.
 
-"# Instagram_posts" 
+"# Instagram_posts"
+demo.mp4
+
+
+
